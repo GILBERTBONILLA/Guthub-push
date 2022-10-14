@@ -1,0 +1,40 @@
+.background {
+    background-color:silver;
+    width: 840px;
+    height: 840px;
+    margin: 0px auto;
+    color: rgb(76, 87, 96);
+    font-size: x-large;
+    text-align: center;
+    padding: 1px;
+}
+img {
+    height: 200px;
+}
+#top {
+    width: 800px;
+    height: 220px;
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px 20px 10px;
+}
+#middle {
+    width: 800px;
+    height: 220px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px 20px 10px;
+}
+#last {
+    width: 800px;
+    height: 220px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px 20px 10px;
+}
